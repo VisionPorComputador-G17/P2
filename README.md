@@ -15,6 +15,15 @@ Modificación de imágenes y vídeo con OpenCV y Numpy.
 
 - Se propuso un demostrador que capture las imágenes de la cámara, y les permita exhibir lo aprendido. Es por ello que además de poder mostrar la imagen original de la webcam, incluya al menos dos usos diferentes de aplicar las funciones de OpenCV trabajadas hasta ahora.
 - Nuestra propuesta: Al pulsar *Enter* se cambiará a diferentes modos: normal, detección de verdes, filtro sepia, umbralizado sobel.
+  
+![Filtros](https://github.com/user-attachments/assets/58fde277-9352-4113-893b-d9d002097ba9)
+
+- Tras ver los vídeos [My little piece of privacy](https://www.niklasroy.com/project/88/my-little-piece-of-privacy), [Messa di voce](https://youtu.be/GfoqiyB1ndE?feature=shared) y [Virtual air guitar](https://youtu.be/FIAmyoEpV5c?feature=shared) proponer un demostrador reinterpretando la parte de procesamiento de la imagen, tomando como punto de partida alguna de dichas instalaciones.
+- Nuestra propuesta: El objeto rojo vistoso más grande detectado se podrá usar de pincel, el objeto verde vistoso más grande detectado se podrá usar como borrador.
+  
+![Pintando(1)](https://github.com/user-attachments/assets/44d9c4de-7919-4174-b752-51d59398aed5)
+![Borrando(1)](https://github.com/user-attachments/assets/9d795728-4a01-4464-859f-4c0bd57ea1c5)
+
 
 
 ## Requisitos
