@@ -56,6 +56,10 @@ conda install -n VC_P1 ipykernel --update-deps --force-reinstall
 
 [Marcador o Lápiz virtual | OpenCV – Python](https://omes-va.com/marcador-o-lapiz-virtual-opencv-python/)
 
+[Documentación OpenCV](https://docs.opencv.org/4.x/)
+
+[Image Processing in Java – Colored Image to Sepia Image Conversion | Pratik Agarwal](https://www.geeksforgeeks.org/image-processing-in-java-colored-image-to-sepia-image-conversion/)
+
 
 ## Autoría
 [Sara Expósito Suárez](https://github.com/SaraE5)
