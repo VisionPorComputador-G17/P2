@@ -46,7 +46,7 @@ pip install numpy
 ```
 ### ipykernel
 ```
-conda install -n VC_P1 ipykernel --update-deps --force-reinstall
+conda install -n VC_P2 ipykernel --update-deps --force-reinstall
 ```
 
 ## Bibliografía
